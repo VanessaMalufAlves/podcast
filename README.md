@@ -8,7 +8,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ChatGPT
 MidJourney
 ElevenLabs
-Capcut
+Capcut - para edição porém após a edição tive que salvar no Iphone o audio pois a opção de export estava disponível apenas no capcup Pro
 ✨ Como foi feito ?
 Roteiro gerado via chatgpt
 Audio gerado pela elevenLabs
